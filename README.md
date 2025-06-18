@@ -12,6 +12,6 @@ Investigar padrões nos dados de clientes que possam indicar comportamentos de e
 
 ## 📁 Estrutura do Projeto
 
-├── TelecomX_analysis.ipynb       # Notebook principal com a análise
-├── TelecomX_Data.json            # Dataset original no formato JSON
-├── README.md   
+- TelecomX_analysis.ipynb       # Notebook principal com a análise
+- TelecomX_Data.json            # Dataset original no formato JSON
+- README.md   
